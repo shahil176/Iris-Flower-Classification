@@ -59,7 +59,7 @@ Target Classes:
 The KNN model successfully classified iris flowers with excellent accuracy. This project demonstrates the basic workflow of a Machine Learning classification problem.
 
 
-##OUTPUT:- 
+##OUTPUTS:- 
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8640cf2c-32f1-46d0-90d6-0e2ec5fc2bbd" />
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2100b431-c498-44a3-b8de-081a2edca620" />
