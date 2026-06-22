@@ -1,5 +1,3 @@
-# Iris Flower Classification
-
 ## Intern Details
 
 * **Intern ID:** CITS4891
